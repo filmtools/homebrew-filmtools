@@ -1,8 +1,8 @@
 class Ndeviation < Formula
   desc "Calculates push/pull 'N' deviation for developed film densities."
   homepage "https://github.com/filmspeed/ndeviation"
-  url "https://github.com/filmspeed/ndeviation/archive/1.0.4.tar.gz"
-  sha256 "baff18a1e57300f702ebc6014e2b90c962c77847ae56087ede41ff69059e75a0"
+  url "https://github.com/filmspeed/ndeviation/archive/1.0.6.tar.gz"
+  sha256 "ca023cc0c5c8cb7325bbe8318c6cfbf1b70afed4db9075c2920d45c0adcc9cc4"
 
   bottle :unneeded
 

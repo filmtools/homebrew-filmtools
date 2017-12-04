@@ -1,8 +1,8 @@
 class Curvefit < Formula
   desc "Finds X/Y value for a given Y/X by polynomial interpolation."
   homepage "https://github.com/filmspeed/curvefit"
-  url "https://github.com/filmspeed/curvefit/archive/1.0.6.tar.gz"
-  sha256 "782c68d8f26a453acd904872f17e35212318de010170265a5852569c98ded1b8"
+  url "https://github.com/filmspeed/curvefit/archive/2.0.0.tar.gz"
+  sha256 "206c4672f9fc004bedb4d4f6c24cb9006a9783a4bdbfac3e18ce34fee9133798"
 
   bottle :unneeded
 
@@ -12,7 +12,7 @@ class Curvefit < Formula
   depends_on "matplotlib"
 
   def install
-    bin.install "curvefit"
+    bin.install "bin/curvefit"
     # prefix.install "USAGE"
     # prefix.install "CREDITS"
     prefix.install "LICENSE"

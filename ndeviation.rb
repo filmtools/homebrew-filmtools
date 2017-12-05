@@ -7,7 +7,7 @@ class Ndeviation < Formula
   bottle :unneeded
 
 
-  depends_on :python
+  depends_on :python if MacOS.version <= :snow_leopard
   depends_on "filmspeed/filmspeed/curvefit"
 
   def install

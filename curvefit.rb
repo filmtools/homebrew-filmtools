@@ -1,8 +1,8 @@
 class Curvefit < Formula
   desc "Finds X/Y value for a given Y/X by polynomial interpolation."
   homepage "https://github.com/filmtools/curvefit"
-  url "https://github.com/filmtools/curvefit/archive/2.0.3.tar.gz"
-  sha256 "79fec8b6969d05a07a4d00c73c88adc6846c0728b81e5fe37f447c187f135968"
+  url "https://github.com/filmtools/curvefit/archive/2.0.4.tar.gz"
+  sha256 "15b0e68ff7522e5a5ef943e389f7e30a9d39a61dfed7fd69f1b7b3465a5a1efe"
 
   bottle :unneeded
 

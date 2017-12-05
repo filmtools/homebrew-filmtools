@@ -1,8 +1,8 @@
 class Ndeviation < Formula
   desc "Calculates push/pull 'N' deviation for developed film densities."
   homepage "https://github.com/filmtools/ndeviation"
-  url "https://github.com/filmtools/ndeviation/archive/2.0.0.tar.gz"
-  sha256 "4a1e9dceaa45041d086bc5068b185a07f28986af056049d40031f036eb202f38"
+  url "https://github.com/filmtools/ndeviation/archive/2.0.5.tar.gz"
+  sha256 "3cab8b5ff89089e2a19bfc1c3023d390e638dcfa395607e1a2aa8879cbe1eb89"
 
   bottle :unneeded
 
@@ -11,7 +11,7 @@ class Ndeviation < Formula
   depends_on "filmtools/filmtools/curvefit"
 
   def install
-    bin.install "ndeviation"
+    bin.install "cli/ndeviation"
     # prefix.install "USAGE"
     # prefix.install "CREDITS"
     prefix.install "LICENSE"

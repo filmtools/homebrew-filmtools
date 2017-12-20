@@ -1,4 +1,4 @@
-class FilmCurve < Formula
+class Filmcurve < Formula
   desc "Finds exposure zone for a given film density (or vice versa)"
   homepage "https://github.com/filmtools/filmcurve"
   url "https://github.com/filmtools/filmcurve/archive/0.0.1.tar.gz"

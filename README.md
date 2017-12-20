@@ -26,51 +26,29 @@ To install all programs, open your terminal and type:
 
 
 ```bash
-$ brew install ndeviation
+$ brew install filmcurve
 ```
 
 
 # Formulae
 
-## Scripts for you
 
+### [filmcurve](https://github.com/filmtools/filmcurve) 
 
-### [ndeviation](https://github.com/filmtools/ndeviation) 
-
-Calculates 'N' deviation for a series of exposures and film densities, commonly referred to as push and pull processing. Requires Python.
-
+Finds exposure zone for a given film density (or vice versa).
   
-[Documentation](https://github.com/filmtools/ndeviation) &middot; 
-[Usage](https://github.com/filmtools/ndeviation#usage) &middot; 
-[Examples](https://github.com/filmtools/ndeviation#examples)
+[Documentation](https://github.com/filmtools/filmcurve) &middot; 
+[Usage](https://github.com/filmtools/filmcurve#usage) &middot; 
+[Examples](https://github.com/filmtools/filmcurve#examples)
 
 ```bash
 # with tap installed:
-$ brew install ndeviation
+$ brew install filmcurve
 
 # ...or without having tap installed:
-$ brew install filmtools/filmtools/ndeviation
+$ brew install filmtools/filmtools/filmcurve
 ```
 
-
-
-
-## Helpers and dependencies
-
-You do not need to install these tools manually, as they are needed by the tools above and thus are installed automatically.
-
-
-### curvefit
-
-Finds X (or Y) value for a given Y (or X, resp.) by polynomial interpolation. [Documentation](https://github.com/filmtools/curvefit)
-
-```bash
-# with tap installed:
-$ brew install curvefit
-
-# ...or without having tap installed:
-$ brew install filmtools/filmtools/curvefit
-```
 
 
 

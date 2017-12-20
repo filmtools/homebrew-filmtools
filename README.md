@@ -30,10 +30,10 @@ $ brew install filmcurve
 ```
 
 
-# Formulae
+## Formulae
 
 
-### [filmcurve](https://github.com/filmtools/filmcurve) 
+### Experimental: [filmcurve](https://github.com/filmtools/filmcurve) 
 
 Finds exposure zone for a given film density (or vice versa).
   

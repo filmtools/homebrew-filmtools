@@ -1,8 +1,8 @@
 class Filmcurve < Formula
   desc "Finds exposure zone for a given film density (or vice versa)"
   homepage "https://github.com/filmtools/filmcurve"
-  url "https://github.com/filmtools/filmcurve/archive/0.0.1.tar.gz"
-  sha256 "21337b62966487b20edb85704b6dadc87f7d5fc1de60c45909a2f9b5142e1158"
+  url "https://github.com/filmtools/filmcurve/archive/0.0.2.tar.gz"
+  sha256 "0bc31c946bb357e54d9f8270da6cb78e78f9e887f8787ccb0bc7f40f572da6c2"
 
   bottle :unneeded
 

@@ -26,7 +26,7 @@ To install all programs, open your terminal and type:
 
 
 ```bash
-$ brew install filmcurve
+$ brew install filmcurve negdiv.sh
 ```
 
 
@@ -45,10 +45,26 @@ Finds exposure zone for a given film density (or vice versa).
 # with tap installed:
 $ brew install filmcurve
 
-# ...or without having tap installed:
+# ...or without having this tap installed:
 $ brew install filmtools/filmtools/filmcurve
 ```
 
 
+===
 
 
+### Antti Penttala's [negdiv.sh](https://github.com/filmtools/negdiv.sh)
+
+Orange mask removal for color negatives
+
+[Documentation](https://github.com/filmtools/negdiv.sh) &middot; 
+[Usage](https://github.com/filmtools/negdiv.sh#usage) &middot; 
+[Example](https://github.com/filmtools/negdiv.sh#example)
+
+```bash
+# with tap installed:
+$ brew install negdiv.sh
+
+# ...or without having this tap installed:
+$ brew install filmtools/filmtools/negdiv.sh
+```

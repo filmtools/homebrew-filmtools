@@ -20,9 +20,9 @@ $ brew tap filmtools/filmtools
 
 
 
-## Installation
+## Install all formulae
 
-To install all programs, open your terminal and type:
+To install all programs provided by this tap, open your terminal and type:
 
 
 ```bash
@@ -30,7 +30,7 @@ $ brew install filmcurve negdiv.sh
 ```
 
 
-## Formulae
+## Install single formulae
 
 
 ### Experimental: [filmcurve](https://github.com/filmtools/filmcurve) 
@@ -55,7 +55,7 @@ $ brew install filmtools/filmtools/filmcurve
 
 ### Antti Penttala's [negdiv.sh](https://github.com/filmtools/negdiv.sh)
 
-Orange mask removal for color negatives
+Orange mask removal for color negatives – see Antti Penttala's article [The Fastest And Easiest Method For Removing The Orange Mask In Photoshop](http://www.penttala.fi/blog/the-fastest-and-easiest-method-for-removing-the-orange-mask-in-photoshop/)
 
 [Documentation](https://github.com/filmtools/negdiv.sh) &middot; 
 [Usage](https://github.com/filmtools/negdiv.sh#usage) &middot; 

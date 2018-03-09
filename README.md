@@ -50,8 +50,6 @@ $ brew install filmtools/filmtools/filmcurve
 ```
 
 
-===
-
 
 ### Antti Penttala's [negdiv.sh](https://github.com/filmtools/negdiv.sh)
 

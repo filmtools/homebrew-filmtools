@@ -1,8 +1,8 @@
 class NegdivSh < Formula
   desc "Orange mask removal for color negatives, as authored by Antti Penttala"
   homepage "https://github.com/filmtools/negdiv.sh"
-  url "https://github.com/filmtools/negdiv.sh/archive/1.0.0.tar.gz"
-  sha256 "c7bd0234d77d4ad3dd3e91376a7f363ddb13ce24d44cf37471e53b66a608ca01"
+  url "https://github.com/filmtools/negdiv.sh/archive/1.0.2.tar.gz"
+  sha256 "9a726589e6089ac80ed88d229fb22e3f1abf9ee97d64723278243448a77ac4ee"
 
   def install
     bin.install "negdiv.sh"

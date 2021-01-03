@@ -36,10 +36,8 @@ $ brew install filmcurve negdiv.sh
 ### Experimental: [filmcurve](https://github.com/filmtools/filmcurve) 
 
 Finds exposure zone for a given film density (or vice versa).
-  
-[Documentation](https://github.com/filmtools/filmcurve) &middot; 
-[Usage](https://github.com/filmtools/filmcurve#usage) &middot; 
-[Examples](https://github.com/filmtools/filmcurve#examples)
+
+[Documentation](https://github.com/filmtools/filmcurve) &middot; [Usage](https://github.com/filmtools/filmcurve#usage) &middot; [Examples](https://github.com/filmtools/filmcurve#examples)
 
 ```bash
 # with tap installed:
@@ -53,11 +51,9 @@ $ brew install filmtools/filmtools/filmcurve
 
 ### Antti Penttala's [negdiv.sh](https://github.com/filmtools/negdiv.sh)
 
-Orange mask removal for color negatives – see Antti Penttala's article [The Fastest And Easiest Method For Removing The Orange Mask In Photoshop](http://www.penttala.fi/blog/the-fastest-and-easiest-method-for-removing-the-orange-mask-in-photoshop/)
+Orange mask removal for color negatives, as authored by Antti Penttala in 2015. 
 
-[Documentation](https://github.com/filmtools/negdiv.sh) &middot; 
-[Usage](https://github.com/filmtools/negdiv.sh#usage) &middot; 
-[Example](https://github.com/filmtools/negdiv.sh#example)
+[Documentation](https://github.com/filmtools/negdiv.sh) &middot; [Usage](https://github.com/filmtools/negdiv.sh#usage) &middot; [Example](https://github.com/filmtools/negdiv.sh#example)
 
 ```bash
 # with tap installed:

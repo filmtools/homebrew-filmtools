@@ -4,6 +4,9 @@ class NegdivSh < Formula
   url "https://github.com/filmtools/negdiv.sh/archive/1.0.2.tar.gz"
   sha256 "9a726589e6089ac80ed88d229fb22e3f1abf9ee97d64723278243448a77ac4ee"
 
+  depends_on "imagemagick"
+  depends_on "ufraw"
+
   def install
     bin.install "negdiv.sh"
   end
